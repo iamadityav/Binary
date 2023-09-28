@@ -1,3 +1,24 @@
+
+<img width="389" alt="Binary1" src="https://github.com/iamadityav/Binary/assets/70755876/a6a7b34b-b1e0-4d43-a21c-2112488ee863">
+
+
+
+
+
+
+
+
+<img width="382" alt="Binary2" src="https://github.com/iamadityav/Binary/assets/70755876/b9ac3259-0c5b-4e05-91cb-65bf1aab99c8">
+
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
